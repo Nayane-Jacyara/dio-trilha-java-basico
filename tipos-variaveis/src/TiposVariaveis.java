@@ -19,7 +19,7 @@ public class TiposVariaveis {
 
         final int NUMERO = 5;
 
-        NUMERO = 10;// colocando o final no comeco da variavel nao podera altera o valor sempre vai ser fixo 
+       // colocando o final no comeco da variavel nao podera altera o valor sempre vai ser fixo 
 
         System.out.println(NUMERO);
 }
