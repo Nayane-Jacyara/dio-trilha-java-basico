@@ -3,7 +3,7 @@ public class TiposVariaveis {
         // Tipos de variaveis 
         //estudem a class String que representa texto de aplicacao 
 
-        String meuNome = "Nayane Jacyara";
+        /*String meuNome = "Nayane Jacyara";
 
         byte idade = 123;
 		short ano = 2021;
@@ -21,6 +21,6 @@ public class TiposVariaveis {
 
        // colocando o final no comeco da variavel nao podera altera o valor sempre vai ser fixo 
 
-        System.out.println(NUMERO);
+        System.out.println(NUMERO);*/
 }
 }
